@@ -15,8 +15,7 @@ public class ArrayBasics {
      * @return the length of arr.
      */
     public int getLengthOfArray(int[] arr){
-        int length = arr.length;
-        return length;
+        return arr.length;
     }
 
 
